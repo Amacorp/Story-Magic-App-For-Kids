@@ -1,4 +1,4 @@
-# StoryMagic Kids - AI-Powered Bedtime Story App
+# StoryMagic Kids 🌈 AI-Powered Bedtime Story App
 
 An enchanting Android application that creates personalized bedtime stories for children ages 3-12 using AI. Each story is uniquely crafted based on the child's name, age, gender, interests, and preferred moral themes.
 
