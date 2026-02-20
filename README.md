@@ -15,12 +15,6 @@ An enchanting Android application that creates personalized bedtime stories for 
 - **Parental Controls**: PIN protection, daily limits, content filters
 - **Offline Access**: Saved stories available without internet
 
-## Screenshots
-
-| Onboarding | Story Generation | Story Playback | Library |
-|------------|------------------|----------------|---------|
-| ![Onboarding](screenshots/onboarding.png) | ![Loading](screenshots/loading.png) | ![Story](screenshots/story.png) | ![Library](screenshots/library.png) |
-
 ## Requirements
 
 - Android 8.0 (API 26) or higher
@@ -30,7 +24,7 @@ An enchanting Android application that creates personalized bedtime stories for 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/storymagic-kids.git
+git clone https://github.com/Amacorp/Story-Magic-App-For-Kids-.git
 ```
 
 2. Open in Android Studio
