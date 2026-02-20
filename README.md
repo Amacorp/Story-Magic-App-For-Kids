@@ -24,7 +24,7 @@ An enchanting Android application that creates personalized bedtime stories for 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Amacorp/Story-Magic-App-For-Kids-.git
+git clone https://github.com/Amacorp/Story-Magic-App-For-Kids.git
 ```
 
 2. Open in Android Studio
