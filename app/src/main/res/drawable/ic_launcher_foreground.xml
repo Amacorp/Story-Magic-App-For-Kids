@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Owl body -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:pathData="M54,30c-13.3,0 -24,10.7 -24,24s10.7,24 24,24s24,-10.7 24,-24S67.3,30 54,30z"/>
+    <!-- Left eye -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,48m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0"/>
+    <path
+        android:fillColor="#2C3E50"
+        android:pathData="M46,48m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"/>
+    <!-- Right eye -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,48m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0"/>
+    <path
+        android:fillColor="#2C3E50"
+        android:pathData="M62,48m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"/>
+    <!-- Beak -->
+    <path
+        android:fillColor="#FFD93D"
+        android:pathData="M54,54L51,60L57,60Z"/>
+    <!-- Left ear -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:pathData="M38,36L34,26L44,32Z"/>
+    <!-- Right ear -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:pathData="M70,36L74,26L64,32Z"/>
+</vector>

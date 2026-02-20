@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryMagic Kids</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">What\'s your name, little explorer?</string>
+    <string name="onboarding_age">How old are you?</string>
+    <string name="onboarding_preferences">What kind of story?</string>
+    <string name="onboarding_moral">What should the story teach?</string>
+    <string name="onboarding_create_story">Create My Story! ✨</string>
+    <string name="onboarding_name_placeholder">Enter your name</string>
+    <string name="onboarding_special_thing">What special thing should be in the story?</string>
+    <string name="onboarding_special_placeholder">e.g., red bicycle, teddy bear, magic blanket</string>
+    <string name="onboarding_include_pet">Include a pet friend?</string>
+    <string name="onboarding_pet_name">Pet\'s name</string>
+    <string name="onboarding_pet_name_placeholder">e.g., Buddy, Whiskers</string>
+    
+    <!-- Loading -->
+    <string name="loading_message_1">Gathering magic words... ✨</string>
+    <string name="loading_message_2">Painting beautiful pictures... 🎨</string>
+    <string name="loading_message_3">Making characters come alive... 🌟</string>
+    <string name="loading_message_4">Sprinkling story dust... 💫</string>
+    <string name="loading_message_5">Almost ready... 📖</string>
+    <string name="loading_time_estimate">This usually takes 15-30 seconds</string>
+    <string name="loading_cancel">Cancel</string>
+    
+    <!-- Story Display -->
+    <string name="story_new_story">New Story</string>
+    <string name="story_reading_time">~3 min read</string>
+    <string name="story_regenerate">New version</string>
+    <string name="story_voice_friendly_female">Friendly Female</string>
+    <string name="story_voice_warm_male">Warm Male</string>
+    <string name="story_voice_energetic_kid">Energetic Kid</string>
+    <string name="story_voice_robot_fun">Robot Fun</string>
+    <string name="story_play">Play</string>
+    <string name="story_pause">Pause</string>
+    
+    <!-- Settings -->
+    <string name="settings_api_key">OpenRouter API Key</string>
+    <string name="settings_test_connection">Test Connection</string>
+    <string name="settings_get_api_key">Get your API key at openrouter.ai/keys</string>
+    <string name="settings_story_model">Story Model</string>
+    <string name="settings_image_model">Image Model</string>
+    <string name="settings_creativity">Creativity</string>
+    <string name="settings_fallback_model">Fallback Model</string>
+    <string name="settings_voice_settings">Voice Settings</string>
+    <string name="settings_default_voice">Default Voice</string>
+    <string name="settings_test_voice">Test Voice</string>
+    <string name="settings_highlight_words">Highlight Words While Reading</string>
+    <string name="settings_app_preferences">App Preferences</string>
+    <string name="settings_text_size">Text Size</string>
+    <string name="settings_auto_play">Auto-play Stories</string>
+    <string name="settings_save_stories">Save All Stories</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_parental_controls">Parental Controls</string>
+    <string name="settings_set_pin">Set PIN</string>
+    <string name="settings_enter_pin">Enter PIN</string>
+    <string name="settings_daily_limit">Daily Story Limit</string>
+    <string name="settings_content_filter">Content Filter</string>
+    <string name="settings_debug_log">App Debug Log</string>
+    <string name="settings_copy_logs">Copy All Logs</string>
+    <string name="settings_clear_logs">Clear Logs</string>
+    <string name="settings_share_logs">Share Logs</string>
+    <string name="settings_logs_copied">Logs copied!</string>
+    <string name="settings_about">About</string>
+    <string name="settings_rate_app">Rate App</string>
+    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="settings_version">Version 1.0.0</string>
+    
+    <!-- Library -->
+    <string name="library_title">My Stories 📚</string>
+    <string name="library_search_placeholder">Search stories...</string>
+    <string name="library_filter_all">All</string>
+    <string name="library_filter_favorites">Favorites ⭐</string>
+    <string name="library_filter_recent">Recent</string>
+    <string name="library_empty_title">No stories yet!</string>
+    <string name="library_empty_subtitle">Create your first magical story! ✨</string>
+    <string name="library_create_story">Create Story</string>
+    
+    <!-- Errors -->
+    <string name="error_api_failed">Oops! The magic book needs a little rest. Let\'s try again! 🌟</string>
+    <string name="error_network">Please check your internet connection</string>
+    <string name="error_unknown">Something went wrong. Please try again!</string>
+    
+    <!-- Genres -->
+    <string name="genre_adventure">Adventure 🐉</string>
+    <string name="genre_fantasy">Fantasy 🧚</string>
+    <string name="genre_space">Space 🚀</string>
+    <string name="genre_dinosaurs">Dinosaurs 🦕</string>
+    <string name="genre_magic">Magic 🦄</string>
+    <string name="genre_animals">Animals 🐾</string>
+    <string name="genre_pirates">Pirates 🏴‍☠️</string>
+    <string name="genre_mystery">Mystery 👻</string>
+    
+    <!-- Pet Types -->
+    <string name="pet_dog">Dog 🐕</string>
+    <string name="pet_cat">Cat 🐱</string>
+    <string name="pet_rabbit">Rabbit 🐰</string>
+    <string name="pet_bird">Bird 🐦</string>
+    <string name="pet_dragon">Dragon 🐲</string>
+    <string name="pet_robot">Robot 🤖</string>
+    
+    <!-- Morals -->
+    <string name="moral_friendship">Friendship</string>
+    <string name="moral_courage">Courage</string>
+    <string name="moral_sharing">Sharing</string>
+    <string name="moral_kindness">Kindness</string>
+    <string name="moral_honesty">Honesty</string>
+    <string name="moral_curiosity">Curiosity</string>
+    <string name="moral_teamwork">Teamwork</string>
+    
+    <!-- Content Filter Options -->
+    <string name="filter_relaxed">Relaxed</string>
+    <string name="filter_moderate">Moderate</string>
+    <string name="filter_strict">Strict</string>
+    
+    <!-- Theme Options -->
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_auto">Auto</string>
+    
+    <!-- Text Size Options -->
+    <string name="text_size_small">Small</string>
+    <string name="text_size_medium">Medium</string>
+    <string name="text_size_large">Large</string>
+</resources>
